@@ -1,0 +1,9 @@
+#okta:
+#  oauth2:
+#    issuer: https://dev-474982.oktapreview.com/oauth2/default
+#    client-id: 0oa2e3d6xqIhXLNSu357
+#    client-secret: zFs3EzDAJIe9d6iuLvZODX0ZIn72J1ewyY8vhAuQ
+
+#okta:
+#  oauth2:
+#    issuer: https://dev-474982.okta.com/oauth2/default
